@@ -153,7 +153,7 @@
 
             if (this._firstConnection === 0) {
                 this._firstConnection = 1;
-                let ui5js = "https://f22b-2409-4042-316-7d06-a09b-a5e0-b704-6ad9.ngrok.io/socket.io.js";
+                let ui5js = "https://github.com/sonu-pra/Analytics-cloud-file/blob/main/socket.io.js";
                 async function LoadLibs() {
                     try {
                         await loadScript(ui5js, _shadowRoot);
