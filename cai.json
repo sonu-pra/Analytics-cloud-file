@@ -15,14 +15,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-cai3",
-      "url": "https://f22b-2409-4042-316-7d06-a09b-a5e0-b704-6ad9.ngrok.io/cai.js",
+      "url": "https://github.com/sonu-pra/Analytics-cloud-file/blob/main/cai.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-cai3-aps",
-      "url": "https://f22b-2409-4042-316-7d06-a09b-a5e0-b704-6ad9.ngrok.io/aps_cai.js",
+      "url": "https://github.com/sonu-pra/Analytics-cloud-file/blob/main/aps_cai.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
